@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Wutthiphong
 ===================================================================================================================================
 
-Front end developer
+Frontend developer
 -------------------
 
 I would like to contribute to the organization's goals and enhance my own experience as a front-end developer. I am ready to learn new things all the time.
